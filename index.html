@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Eng Read — Wednesday, March 18, 2026</title>
+  <meta property="og:title" content="How a Simple Figma Component Solved Our Translation Challenges at Flip">
+  <meta property="og:description" content="Working as a Product Designer at Flip since 2020, I&amp;#x2019;ve encountered numerous design challenges, but one of the most memorable was the complex task of managing translations for both English and Bahasa Indonesia. Our goal was to create content that felt natural and localized to each audience, so relying on standard translation tools or AI…">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f4f5f7;
+      --card: #ffffff;
+      --accent: #4361ee;
+      --accent-light: #eef0fd;
+      --text: #111827;
+      --muted: #6b7280;
+      --border: #e5e7eb;
+      --radius: 16px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+      color: var(--text);
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 2.5rem 3rem;
+      max-width: 680px;
+      width: 100%;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.07), 0 0 0 1px rgba(0,0,0,0.04);
+    }
+
+    .date-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 1.5rem;
+    }
+
+    .source-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .source {
+      display: inline-flex;
+      align-items: center;
+      background: var(--accent-light);
+      color: var(--accent);
+      padding: 0.3rem 0.85rem;
+      border-radius: 100px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: opacity 0.15s;
+    }
+    .source:hover { opacity: 0.75; }
+
+    .tier {
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.2rem 0.6rem;
+      border-radius: 100px;
+      letter-spacing: 0.04em;
+    }
+    .tier1 { background: #fef9c3; color: #a16207; }
+    .tier2 { background: #f0fdf4; color: #166534; }
+
+    h1 {
+      font-size: clamp(1.35rem, 3vw, 1.85rem);
+      line-height: 1.3;
+      color: var(--text);
+      margin-bottom: 0.75rem;
+      font-weight: 700;
+    }
+
+    .meta {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+    }
+
+    .excerpt {
+      color: #374151;
+      line-height: 1.75;
+      font-size: 0.97rem;
+      margin-bottom: 2rem;
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.8rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.97rem;
+      transition: opacity 0.15s, transform 0.1s;
+    }
+    .btn:hover { opacity: 0.88; transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: #9ca3af;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    @media (max-width: 600px) {
+      .card { padding: 1.75rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="date-label">Today's Engineering Read &mdash; Wednesday, March 18, 2026</div>
+
+    <div class="source-row">
+      <a class="source" href="https://tech.flip.id/" target="_blank" rel="noopener">Flip.id</a>
+      
+    </div>
+
+    <h1>How a Simple Figma Component Solved Our Translation Challenges at Flip</h1>
+
+    <div class="meta">by Edwin Riwaldo · Dec 9, 2024</div>
+
+    <p class="excerpt">Working as a Product Designer at Flip since 2020, I&amp;#x2019;ve encountered numerous design challenges, but one of the most memorable was the complex task of managing translations for both English and Bahasa Indonesia. Our goal was to create content that felt natural and localized to each audience, so relying on standard translation tools or AI…</p>
+
+    <a class="btn" href="https://tech.flip.id/how-a-simple-figma-component-solved-our-translation-challenges-at-flip/" target="_blank" rel="noopener">Read Post &rarr;</a>
+
+    <div class="footer">
+      <span>Refreshes daily &middot; 305 blogs in rotation</span>
+      <span>Powered by GitHub Actions</span>
+    </div>
+  </div>
+</body>
+</html>
