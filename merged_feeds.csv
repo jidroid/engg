@@ -1,315 +1,60 @@
 name,url,rss_url,type,score,source_count,found_in
-Slack Engineering,https://slack.engineering/,https://slack.engineering/feed,Tier 2 Company,130,9,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, primaprashant/ml-engineering-blogs, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Stripe Engineering,https://stripe.com/blog,https://stripe.com/blog/feed.rss,Tier 1 Company,115,6,"engineeringblogs.xyz, blog.bytebytego.com, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Heroku Engineering,https://www.heroku.com/blog/,https://www.heroku.com/feed/,Tier 2 Company,110,7,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, enrichment"
-Airbnb Engineering,https://medium.com/airbnb-engineering,https://medium.com/feed/airbnb-engineering,Tier 1 Company,105,5,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, draft.dev, kilimchoi/engineering-blogs, upgundecha/awesome-engineering"
-AWS Blog,https://aws.amazon.com/blogs/aws/,https://aws.amazon.com/blogs/aws/feed/,Tier 1 Company,105,5,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, draft.dev, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Cloudflare Blog,https://blog.cloudflare.com/,https://blog.cloudflare.com/rss/,Tier 1 Company,105,5,"engineeringblogs.xyz, blog.bytebytego.com, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Spotify Engineering,https://labs.spotify.com/,https://labs.spotify.com/feed/,Tier 1 Company,105,7,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, primaprashant/ml-engineering-blogs, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, enrichment"
-eBay Tech,https://www.ebayinc.com/stories/blogs/tech/,https://www.ebayinc.com/stories/blogs/tech/rss/,Tier 2 Company,100,8,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, engineeringblogs.xyz, kilimchoi/engineering-blogs, enrichment"
-GitHub Engineering,https://github.blog/category/engineering/,https://githubengineering.com/atom.xml,Tier 1 Company,100,8,"crispgm/awesome-engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, draft.dev, engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Grab Engineering,http://engineering.grab.com/,http://engineering.grab.com/feed.xml,Tier 2 Company,100,6,"engineeringblogs.xyz, blog.bytebytego.com, primaprashant/ml-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Instacart Engineering,https://tech.instacart.com/,https://tech.instacart.com/feed,Tier 2 Company,100,6,"engineeringblogs.xyz, blog.bytebytego.com, primaprashant/ml-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Khan Academy Engineering,http://engineering.khanacademy.org,http://engineering.khanacademy.org/rss.xml,Tier 2 Company,100,6,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, enrichment"
-Meta Engineering,https://engineering.fb.com/,https://code.fb.com/feed/,Tier 1 Company,100,8,"crispgm/awesome-engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, draft.dev, engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-SoundCloud Developers,https://developers.soundcloud.com/blog/,https://developers.soundcloud.com/blog.rss,Tier 2 Company,100,6,"engineeringblogs.xyz, primaprashant/ml-engineering-blogs, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Stack Overflow Blog,https://stackoverflow.blog/,https://stackoverflow.blog/feed/,Tier 2 Company,100,6,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, primaprashant/ml-engineering-blogs, kilimchoi/engineering-blogs, upgundecha/awesome-engineering"
-Yelp Engineering,https://engineeringblog.yelp.com/,https://engineeringblog.yelp.com/feed.xml,Tier 2 Company,100,6,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-BBC Design and Engineering,https://medium.com/bbc-design-engineering/,https://medium.com/feed/bbc-design-engineering,Tier 2 Company,90,6,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, primaprashant/ml-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, upgundecha/awesome-engineering, upgundecha/awesome-engineering, sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, crispgm/awesome-engineering-blogs, upgundecha/awesome-engineering, blog.bytebytego.com, kilimchoi/engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs, primaprashant/ml-engineering-blogs, kilimchoi/engineering-blogs, engineeringblogs.xyz, primaprashant/ml-engineering-blogs, sumodirjo/engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, kilimchoi/engineering-blogs"
-Etsy Engineering (Code as Craft),https://codeascraft.com/,https://codeascraft.com/feed/,Tier 2 Company,90,5,"crispgm/awesome-engineering-blogs, primaprashant/ml-engineering-blogs, engineeringblogs.xyz, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, draft.dev"
-Google Developers Blog,https://developers.googleblog.com/,https://developers.googleblog.com/feed,Tier 1 Company,90,4,"sumodirjo/engineering-blogs, upgundecha/awesome-engineering, crispgm/awesome-engineering-blogs, draft.dev"
-Salesforce Engineering,https://developer.salesforce.com/blogs/engineering/,https://developer.salesforce.com/blogs/feed,Tier 2 Company,90,5,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, draft.dev, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, enrichment"
-Toptal Blog,https://www.toptal.com/blog/,https://www.toptal.com/blog.rss,Tier 2 Company,90,5,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Microsoft DevBlogs,https://devblogs.microsoft.com/typescript/,https://devblogs.microsoft.com/typescript/feed,Tier 1 Company,85,3,"upgundecha/awesome-engineering, sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Auth0 Blog,https://auth0.com/blog/,https://auth0.com/blog/rss.xml,Tier 2 Company,80,4,"sumodirjo/engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Confluent Blog,https://www.confluent.io/blog,https://www.confluent.io/feed/,Tier 2 Company,80,4,"sumodirjo/engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Databricks Blog,https://databricks.com/blog,https://databricks.com/feed,Tier 2 Company,80,4,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Elastic Blog,https://www.elastic.co/blog/category/engineering,https://www.elastic.co/blog/feed,Tier 2 Company,80,4,"upgundecha/awesome-engineering, sumodirjo/engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com"
-Indeed Engineering,http://engineering.indeedblog.com/blog/,http://engineering.indeedblog.com/feed/,Tier 2 Company,80,4,"sumodirjo/engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Okta Developer Blog,https://developer.okta.com/blog/,https://developer.okta.com/feed.xml,Tier 2 Company,80,4,"MartinsOnuoha/company-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Riot Games Engineering,https://engineering.riotgames.com/,https://engineering.riotgames.com/rss.xml,Tier 2 Company,80,4,"sumodirjo/engineering-blogs, engineeringblogs.xyz, crispgm/awesome-engineering-blogs, kilimchoi/engineering-blogs, MartinsOnuoha/company-engineering-blogs, blog.bytebytego.com"
-Dropbox Tech,https://dropbox.tech/,https://dropbox.tech/feed,Tier 2 Company,75,4,"primaprashant/ml-engineering-blogs, MartinsOnuoha/company-engineering-blogs, upgundecha/awesome-engineering, blog.bytebytego.com"
-Google Research Blog,https://research.googleblog.com/,http://feeds.feedburner.com/blogspot/gJZg,Tier 1 Company,75,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, crispgm/awesome-engineering-blogs"
-Microsoft Edge,https://blogs.windows.com/msedgedev/,https://blogs.windows.com/msedgedev/rss,Tier 1 Company,75,5,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Twilio Blog,https://www.twilio.com/en-us/blog,https://www.twilio.com/en-us/blog/feed,Tier 2 Company,75,4,"sumodirjo/engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs"
-HubSpot Engineering,http://product.hubspot.com/blog/topic/engineering,https://product.hubspot.com/blog/rss.xml,Tier 2 Company,70,4,"upgundecha/awesome-engineering, engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Pulumi Blog,https://www.pulumi.com/blog/,https://www.pulumi.com/blog/rss.xml,Tier 2 Company,70,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, crispgm/awesome-engineering-blogs"
-Squarespace Engineering,https://engineering.squarespace.com/,https://engineering.squarespace.com/blog?format=RSS,Tier 2 Company,70,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, crispgm/awesome-engineering-blogs, sumodirjo/engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, kilimchoi/engineering-blogs"
-Stitch Fix Technology,http://multithreaded.stitchfix.com/blog/,https://multithreaded.stitchfix.com/feed.xml,Tier 2 Company,70,3,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, blog.bytebytego.com, draft.dev, engineeringblogs.xyz, kilimchoi/engineering-blogs, enrichment"
-SurveyMonkey Engineering,https://engineering.surveymonkey.com/,https://www.surveymonkey.com/feed/,Tier 2 Company,70,3,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-ThoughtWorks Insights,https://www.thoughtworks.com/insights,https://www.thoughtworks.com/rss/insights.xml,Tier 2 Company,70,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com"
-Timescale Blog,https://blog.timescale.com/,https://blog.timescale.com/feed,Tier 2 Company,70,3,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Trivago,http://tech.trivago.com/,https://tech.trivago.com/index.xml,Tier 2 Company,70,3,"upgundecha/awesome-engineering, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Wealthfront,http://eng.wealthfront.com/,http://eng.wealthfront.com/feed/,Tier 2 Company,70,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-All Things Distributed (AWS CTO),https://www.allthingsdistributed.com/,https://www.allthingsdistributed.com/atom.xml,Tier 1 Company,65,1,enrichment
-Google Online Security,https://security.googleblog.com/,http://feeds.feedburner.com/GoogleOnlineSecurityBlog,Tier 1 Company,65,1,engineeringblogs.xyz
-Gusto Engineering,http://engineering.gusto.com,http://engineering.gusto.com/feed,Tier 2 Company,65,3,"sumodirjo/engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Medium Engineering,https://medium.engineering/,https://medium.engineering/feed,Tier 2 Company,65,7,"engineeringblogs.xyz, primaprashant/ml-engineering-blogs, draft.dev, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Zalando,https://engineering.zalando.com/,https://engineering.zalando.com/atom.xml,Tier 2 Company,65,3,"sumodirjo/engineering-blogs, primaprashant/ml-engineering-blogs, kilimchoi/engineering-blogs"
-Apple Machine Learning Research,https://machinelearning.apple.com/,https://machinelearning.apple.com/rss.xml,Tier 1 Company,60,1,enrichment
-DeepMind Blog,https://deepmind.google/discover/blog/,https://deepmind.google/discover/blog/feed,Tier 1 Company,60,1,enrichment
-Microsoft Research Blog,https://www.microsoft.com/en-us/research/blog/,https://www.microsoft.com/en-us/research/feed/,Tier 1 Company,60,1,enrichment
-Mozilla Hacks,https://hacks.mozilla.org/,https://hacks.mozilla.org/feed/,Tier 2 Company,60,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Twitch Blog,https://blog.twitch.tv/tagged/engineering,https://medium.com/feed/twitch-news/tagged/engineering,Tier 2 Company,60,2,"engineeringblogs.xyz, blog.bytebytego.com"
-8th Light,https://8thlight.com/blog/,https://8thlight.com/blog/feed/atom.xml,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-AdRoll,http://tech.adroll.com/blog/,http://tech.adroll.com/feed.xml,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Advanced Web Machinery,https://advancedweb.hu/,https://advancedweb.hu/atom.xml,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Canva,https://engineering.canva.com/,https://www.canva.dev/blog/engineering/feed.xml,Tier 2 Company,55,4,"draft.dev, sumodirjo/engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs, enrichment"
-Datadoghq,https://www.datadoghq.com/blog/engineering/,https://www.datadoghq.com/blog/engineering/index.xml,Tier 2 Company,55,2,"MartinsOnuoha/company-engineering-blogs, sumodirjo/engineering-blogs"
-Deliveroo Engineering,https://deliveroo.engineering/,http://deliveroo.engineering/feed.xml,Company,55,3,"upgundecha/awesome-engineering, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Engineering Engineering,http://engineering.wingify.com/,http://engineering.wingify.com/atom.xml,Company,55,4,"upgundecha/awesome-engineering, sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Flickr,http://code.flickr.net/,http://code.flickr.net/feed/,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Guardian,https://www.theguardian.com/info/developer-blog,https://www.theguardian.com/info/series/digital-blog/rss,Company,55,3,"upgundecha/awesome-engineering, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Postmarkapp,https://postmarkapp.com/blog,https://postmarkapp.com/blog/feed.atom,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Sensible,http://blog.sensible.io/,http://blog.sensible.io/rss,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Snap Engineering,https://eng.snap.com/blog/,https://eng.snap.com/feed,Tier 2 Company,55,2,"sumodirjo/engineering-blogs, blog.bytebytego.com"
-Tumblr,https://engineering.tumblr.com/,https://engineering.tumblr.com/rss,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Yahoo!,https://yahooeng.tumblr.com/,https://yahooeng.tumblr.com/rss,Company,55,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-ClickHouse Blog,https://clickhouse.com/blog,https://clickhouse.com/rss.xml,Tier 2 Company,50,1,engineeringblogs.xyz
-Deno Blog,https://deno.com/blog,https://deno.com/feed,Tier 2 Company,50,1,enrichment
-Dream11 Engineering,https://blog.dream11engineering.com/,https://blog.dream11engineering.com/feed,Tier 2 Company,50,1,enrichment
-Flipkart Tech Blog,https://blog.flipkart.tech/,https://blog.flipkart.tech/feed,Tier 2 Company,50,1,enrichment
-Fly.io,https://fly.io/blog/,https://fly.io/blog/feed.xml,Tier 2 Company,50,1,engineeringblogs.xyz
-GitLab Blog,https://about.gitlab.com/blog/,https://about.gitlab.com/atom.xml,Tier 2 Company,50,1,enrichment
-HashiCorp,https://www.hashicorp.com/blog/,https://www.hashicorp.com/blog/feed.xml,Tier 2 Company,50,1,engineeringblogs.xyz
-Hugging Face Blog,https://huggingface.co/blog,https://huggingface.co/blog/feed.xml,Tier 2 Company,50,1,enrichment
-Jane Street Tech,https://blog.janestreet.com/,https://blog.janestreet.com/feed.xml,Tier 2 Company,50,1,enrichment
-Razorpay Engineering,https://engineering.razorpay.com/,https://engineering.razorpay.com/feed,Tier 2 Company,50,1,enrichment
-Replit Blog,https://blog.replit.com/,https://blog.replit.com/feed.xml,Tier 2 Company,50,1,engineeringblogs.xyz
-Sentry Blog,https://blog.sentry.io/,https://blog.sentry.io/feed.xml,Tier 2 Company,50,1,enrichment
-Tailscale,https://tailscale.com/blog,https://tailscale.com/blog/index.xml,Tier 2 Company,50,1,engineeringblogs.xyz
-Vercel Blog,https://vercel.com/blog,https://vercel.com/atom,Tier 2 Company,50,1,engineeringblogs.xyz
-Zapier Engineering,https://zapier.com/engineering/,https://zapier.com/blog/feeds/latest/,Company,50,3,"sumodirjo/engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Anyscale Blog,https://www.anyscale.com/blog,https://www.anyscale.com/rss.xml,Tier 2 Company,45,1,enrichment
-Apartment 304 Engineering Blog,https://blog.apartment304.com/,https://blog.apartment304.com/feed.xml,Company,45,2,"engineeringblogs.xyz, crispgm/awesome-engineering-blogs"
-Arkency,http://blog.arkency.com/,http://blog.arkency.com/atom.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Atomic Object,https://spin.atomicobject.com/,https://spin.atomicobject.com/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Avenue Code,http://blog.avenuecode.com/,http://blog.avenuecode.com/rss.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Bazaarvoice,https://blog.developer.bazaarvoice.com/,https://blog.developer.bazaarvoice.com/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-BenefitFocus,https://www.benefitfocus.com/blogs/design-engineering,https://www.benefitfocus.com/rss.xml,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Bigcommerce,http://www.bigeng.io/,https://www.bigeng.io/rss/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Bitly,http://word.bitly.com/,https://word.bitly.com/rss,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Bloomberg,https://www.techatbloomberg.com/blog/,https://www.techatbloomberg.com/feed,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-Bohops,https://bohops.com/,https://bohops.com/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Bootstrap.com,https://blog.getbootstrap.com/,https://blog.getbootstrap.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Buildkite,https://buildkite.com/resources/blog/category/engineering/,https://buildkite.com/blog.atom,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-Bun Blog,https://bun.sh/blog,https://bun.sh/rss.xml,Tier 2 Company,45,1,enrichment
-Chartbeat,http://engineering.chartbeat.com/,http://engineering.chartbeat.com/feed/,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Circleci Blog,https://circleci.com/blog/tag/engineering/,https://circleci.com/blog/feed.xml,Tier 2 Company,45,1,upgundecha/awesome-engineering
-Clever,https://engineering.clever.com/,https://engineering.clever.com/rss,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Cloud,https://cloud.blog.csc.fi/,https://cloud.blog.csc.fi/feeds/posts/default,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-CockroachDB Blog,https://www.cockroachlabs.com/blog/,https://www.cockroachlabs.com/rss.xml,Tier 2 Company,45,1,blog.bytebytego.com
-CodeName One,http://www.codenameone.com/blog.html,http://www.codenameone.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Codrops,https://tympanus.net/codrops/,https://tympanus.net/codrops/rss,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Coursera,https://blog.coursera.org/,https://blog.coursera.org/feed/,Tier 2 Company,45,2,"sumodirjo/engineering-blogs, draft.dev"
-Crystal,https://crystal-lang.org/,https://crystal-lang.org/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Curalate,http://engineering.curalate.com/,http://engineering.curalate.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Cursor Blog,https://www.cursor.com/blog,https://www.cursor.com/atom.xml,Tier 2 Company,45,1,enrichment
-Doximity,https://engineering.doximity.com,https://engineering.doximity.com/feed,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Evernote,https://evernote.com/blog/,https://evernote.com/blog/feed/,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-Evil Martians,https://evilmartians.com/chronicles/,https://evilmartians.com/chronicles.atom,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Fastly Blog,https://www.fastly.com/blog/,https://www.fastly.com/blog_rss.xml,Tier 2 Company,45,1,enrichment
-Findmypast,http://tech.findmypast.com/,https://tech.findmypast.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Finn.no,http://tech.finn.no/,http://tech.finn.no/atom.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Flipboard,http://engineering.flipboard.com/,http://engineering.flipboard.com/feed.xml,Company,45,2,"sumodirjo/engineering-blogs, engineeringblogs.xyz"
-GameChanger,http://tech.gc.com/,http://tech.gc.com/atom.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Go,https://blog.golang.org/,https://blog.golang.org/feed.atom,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-HackerEarth,http://engineering.hackerearth.com/,http://engineering.hackerearth.com/rss,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Hashrocket,https://hashrocket.com/blog,https://hashrocket.com/blog.rss,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-High Scalability,http://highscalability.com/,http://feeds.feedburner.com/HighScalability,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Honeybadger,http://blog.honeybadger.io/,http://blog.honeybadger.io/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-IBM Research Blog,https://research.ibm.com/blog,https://research.ibm.com/rss,Tier 2 Company,45,1,enrichment
-Intercom.io,https://blog.intercom.io,https://blog.intercom.io/feed,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-IPFS,https://ipfs.io/blog/,https://ipfs.io/blog/index.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-jOOQ,https://blog.jooq.org/,https://blog.jooq.org/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Klarna Engineering,https://engineering.klarna.com/,https://engineering.klarna.com/feed,Tier 2 Company,45,1,enrichment
-Kogan.com,https://devblog.kogan.com/,https://devblog.kogan.com/blog?format=RSS,Company,45,3,"sumodirjo/engineering-blogs, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Lambda the Ultimate,http://lambda-the-ultimate.org/,http://lambda-the-ultimate.org/rss.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-LangChain Blog,https://blog.langchain.dev/,https://blog.langchain.com/rss/,Tier 2 Company,45,1,enrichment
-Laravel,https://laravel-news.com/blog/,https://feed.laravel-news.com/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-LaunchDarkly Blog,https://launchdarkly.com/blog/,https://launchdarkly.com/blog/feed/,Tier 2 Company,45,1,enrichment
-Linear Blog,https://linear.app/blog,https://linear.app/rss/now.xml,Tier 2 Company,45,1,enrichment
-Localytics,http://eng.localytics.com/,https://eng.localytics.com/rss/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Modal Blog,https://modal.com/blog,https://modal.com/blog/atom.xml,Tier 2 Company,45,1,enrichment
-Monzo Blog,https://monzo.com/blog/technology,https://monzo.com/feed.xml,Tier 2 Company,45,1,upgundecha/awesome-engineering
-Neon Blog,https://neon.tech/blog,https://neon.com/blog/rss.xml,Tier 2 Company,45,1,enrichment
-New Relic Blog,https://newrelic.com/blog,https://newrelic.com/blog/feed,Tier 2 Company,45,1,enrichment
-Nordic APIs,https://nordicapis.com/blog/,https://nordicapis.com/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Novoda,https://www.novoda.com/blog/,https://blog.novoda.com/rss/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-NSHipster,http://nshipster.com/,https://nshipster.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Nubank Engineering,https://building.nubank.com.br/,https://building.nubank.com/feed/,Tier 2 Company,45,1,enrichment
-OpenDNS,https://engineering.opendns.com/,https://umbrella.cisco.com/blog/feed/,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Oxide Computer Blog,https://oxide.computer/blog,https://oxide.computer/blog/feed,Tier 2 Company,45,1,enrichment
-Pagerduty,https://www.pagerduty.com/blog/,https://www.pagerduty.com/feed,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-Palantir,https://blog.palantir.com/,https://blog.palantir.com/feed,Tier 2 Company,45,1,kilimchoi/engineering-blogs
-Plaid Engineering,https://plaid.com/blog/,https://plaid.com/blog/rss.xml,Tier 2 Company,45,1,enrichment
-PlanetScale Blog,https://planetscale.com/blog,https://planetscale.com/blog/rss.xml,Tier 2 Company,45,1,enrichment
-Prisma Blog,https://www.prisma.io/blog,https://www.prisma.io/blog/rss.xml,Tier 2 Company,45,1,enrichment
-Railway Blog,https://blog.railway.app/,https://blog.railway.app/rss.xml,Tier 2 Company,45,1,enrichment
-Ramp,https://engineering.ramp.com/,https://engineering.ramp.com/feed.xml,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-REA Group,https://www.rea-group.com/category/tech/,https://www.rea-group.com/category/tech/feed/,Company,45,3,"engineeringblogs.xyz, crispgm/awesome-engineering-blogs, kilimchoi/engineering-blogs"
-ReactJS News,https://reactjsnews.com,https://reactjsnews.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Real Python,https://realpython.com/blog/,https://realpython.com/atom.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Red,http://www.red-lang.org,https://www.red-lang.org/feeds/posts/default,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Remind,http://engineering.remind.com/,http://engineering.remind.com/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Render Blog,https://render.com/blog,https://render.com/blog/feed.rss,Tier 2 Company,45,1,enrichment
-RocksDB,http://rocksdb.org/blog,http://rocksdb.org/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Rust,https://blog.rust-lang.org/,https://blog.rust-lang.org/feed.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-ScyllaDB Blog,https://www.scylladb.com/blog/,https://www.scylladb.com/feed,Tier 2 Company,45,1,enrichment
-Snowflake Blog,https://www.snowflake.com/blog/,https://www.snowflake.com/feed,Tier 2 Company,45,1,enrichment
-Sourcegraph Blog,https://sourcegraph.com/blog,https://sourcegraph.com/blog/rss.xml,Tier 2 Company,45,1,enrichment
-Supabase Blog,https://supabase.com/blog,https://supabase.com/rss.xml,Tier 2 Company,45,1,enrichment
-Teamwork,https://engineroom.teamwork.com/,https://engineroom.teamwork.com/feed,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Temporal Blog,https://temporal.io/blog,https://temporal.io/blog/feed.xml,Tier 2 Company,45,1,enrichment
-Thoughtbot,https://robots.thoughtbot.com/,https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots,Company,45,3,"upgundecha/awesome-engineering, engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Timescale Blog,https://www.timescale.com/blog/,https://www.timescale.com/blog/feed,Tier 2 Company,45,1,enrichment
-Together AI Blog,https://www.together.ai/blog,https://www.together.ai/blog/rss.xml,Tier 2 Company,45,1,enrichment
-Toss Tech,https://toss.tech/,https://toss.tech/rss.xml,Tier 2 Company,45,1,enrichment
-Turso Blog,https://turso.tech/blog,https://turso.tech/blog/feed.xml,Tier 2 Company,45,1,enrichment
-TwoSigma,https://www.twosigma.com/insights/category/technology,https://www.twosigma.com/feed/,Tier 2 Company,45,1,sumodirjo/engineering-blogs
-Universe,https://engineering.universe.com,https://engineering.universe.com/feed,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-UpGrad,https://engineering.upgrad.com,https://engineering.upgrad.com/feed,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Vinted,http://engineering.vinted.com/,http://engineering.vinted.com//atom.xml,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-VMware Tech Blog,https://blogs.vmware.com/opensource/,https://blogs.vmware.com/opensource/feed,Tier 2 Company,45,1,enrichment
-VTS,https://buildingvts.com/,https://buildingvts.com/feed,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Weaviate Blog,https://weaviate.io/blog,https://weaviate.io/blog/rss.xml,Tier 2 Company,45,1,enrichment
-Webflow Blog,https://webflow.com/blog,https://webflow.com/blog/rss.xml,Tier 2 Company,45,1,enrichment
-XING,https://tech.xing.com/,https://tech.xing.com/feed,Company,45,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
-Zoom Developer Blog,https://developers.zoom.us/blog/,https://developers.zoom.us/blog/rss.xml,Tier 2 Company,45,1,blog.bytebytego.com
-Cerner,http://engineering.cerner.com/,https://engineering.cerner.com/index.xml,Company,40,2,"sumodirjo/engineering-blogs, kilimchoi/engineering-blogs"
-Madetech,https://www.madetech.com/blog,https://www.madetech.com/feed/,Company,40,2,"upgundecha/awesome-engineering, kilimchoi/engineering-blogs"
-Mercari,https://engineering.mercari.com/en/blog/,https://engineering.mercari.com/blog/feed.xml,Company,40,2,"sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Wayfair,https://engineering.wayfair.com/,https://www.aboutwayfair.com/careers/tech-blog.rss,Company,40,4,"sumodirjo/engineering-blogs, primaprashant/ml-engineering-blogs, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Angular Blog,https://blog.angular.io/,https://blog.angular.io/feed,Company,35,1,engineeringblogs.xyz
-APNIC,https://blog.apnic.net/,https://blog.apnic.net/feed/,Company,35,1,engineeringblogs.xyz
-Astro Blog,https://astro.build/blog/,https://astro.build/rss.xml,Company,35,1,enrichment
-Chromium Blog,https://blog.chromium.org/,https://blog.chromium.org/feeds/posts/default,Company,35,1,enrichment
-CleverTap,https://clevertap.com/blog/tag/engineering/,https://clevertap.com/blog/tag/engineering/feed/,Company,35,1,engineeringblogs.xyz
-DigitalOcean,https://blog.digitalocean.com/tag/engineering/,https://blog.digitalocean.com/rss/,Company,35,1,engineeringblogs.xyz
-FreeAgent,https://engineering.freeagent.com/,https://engineering.freeagent.com/feed/,Company,35,1,engineeringblogs.xyz
-Go Programming Language,https://go.dev/blog/,https://go.dev/blog/feed.atom,Company,35,1,engineeringblogs.xyz
-HTTP Toolkit,https://httptoolkit.tech/blog,https://httptoolkit.tech/rss.xml,Company,35,1,engineeringblogs.xyz
-InfoQ,https://www.infoq.com/,https://feed.infoq.com/,Company,35,1,enrichment
-Kickstarter,https://www.kickstarter.com/backing-and-hacking,https://kickstarter.engineering/feed,Company,35,1,engineeringblogs.xyz
-Klipse,http://blog.klipse.tech/,http://blog.klipse.tech//feed.xml,Company,35,1,engineeringblogs.xyz
-Kotlin Blog,https://blog.jetbrains.com/kotlin/,https://blog.jetbrains.com/kotlin/feed/,Company,35,1,enrichment
-Latacora,https://latacora.singles/,https://latacora.micro.blog/feed.xml,Company,35,1,engineeringblogs.xyz
-Learnk8s,https://learnk8s.io/blog,https://learnk8s.io/rss.xml,Company,35,1,engineeringblogs.xyz
-Node.js,https://nodejs.org/en/blog/,https://nodejs.org/en/feed/blog.xml,Company,35,1,engineeringblogs.xyz
-OpenTable,http://tech.opentable.com/,http://tech.opentable.com/feed/,Company,35,1,engineeringblogs.xyz
-React,https://reactjs.org/blog/,https://reactjs.org/feed.xml,Company,35,1,engineeringblogs.xyz
-Ruby-lang,https://www.ruby-lang.org/en/news/,https://www.ruby-lang.org/en/feeds/news.rss,Company,35,1,engineeringblogs.xyz
-Scrapinghub,https://blog.scrapinghub.com/,https://blog.scrapinghub.com/rss.xml,Company,35,1,engineeringblogs.xyz
-Semaphore Engineering,http://semaphoreci.io/feed,https://semaphore.io/feed,Company,35,1,engineeringblogs.xyz
-SeveralNines,https://severalnines.com/database-blog,https://severalnines.com/rss.xml,Company,35,1,engineeringblogs.xyz
-Shape Security,http://engineering.shapesecurity.com/,http://engineering.shapesecurity.com/rss,Company,35,1,engineeringblogs.xyz
-Slashdot,https://slashdot.org/,https://rss.slashdot.org/Slashdot/slashdotMain,Company,35,1,engineeringblogs.xyz
-Snyk Blog,https://snyk.io/blog,https://snyk.io/blog/feed/,Company,35,1,engineeringblogs.xyz
-Svelte Blog,https://svelte.dev/blog,https://svelte.dev/blog/rss.xml,Company,35,1,enrichment
-Swift Blog,https://www.swift.org/blog/,https://www.swift.org/atom.xml,Company,35,1,enrichment
-Teleport,https://goteleport.com/blog/,https://goteleport.com/blog/rss.xml,Company,35,1,engineeringblogs.xyz
-The New Stack,https://thenewstack.io/,https://thenewstack.io/blog/feed/,Company,35,1,enrichment
-Tinybird Blog,https://tinybird.com/blog,https://www.tinybird.co/blog/rss.xml,Company,35,1,engineeringblogs.xyz
-Tinybird Blog,https://www.tinybird.co/blog,https://www.tinybird.co/blog/rss.xml,Company,35,1,enrichment
-V8 Team,https://v8.dev/,https://v8.dev/blog.atom,Company,35,1,engineeringblogs.xyz
-WebKit Blog,https://webkit.org/blog/,https://webkit.org/feed/,Company,35,1,enrichment
-Zumba,http://tech.zumba.com/,http://feeds.feedburner.com/zumba_engineering,Company,35,1,engineeringblogs.xyz
-1Password Blog,https://blog.1password.com/,https://blog.1password.com/index.xml,Company,30,1,enrichment
-Airbyte Blog,https://airbyte.com/blog,https://airbyte.com/blog/rss.xml,Company,30,1,enrichment
-BetterWorks,https://engineering.betterworks.com/,https://engineering.betterworks.com/atom.xml,Company,30,1,sumodirjo/engineering-blogs
-bitExpert,https://blog.bitexpert.de/,https://blog.bitexpert.de/blog/rss.xml,Company,30,1,sumodirjo/engineering-blogs
-Bitwarden Blog,https://bitwarden.com/blog/,https://bitwarden.com/blog/feed.xml,Company,30,1,enrichment
-Blend,https://blend.com/blog/engineering/,https://blend.com/feed,Company,30,1,sumodirjo/engineering-blogs
-Branch,https://blog.branch.io/,https://www.branch.io/feed/,Company,30,1,sumodirjo/engineering-blogs
-Buf Blog,https://buf.build/blog,https://buf.build/blog/rss.xml,Company,30,1,enrichment
-ByteByteGo Blog,https://blog.bytebytego.com/,https://blog.bytebytego.com/feed,Company,30,1,enrichment
-Clerk Blog,https://clerk.com/blog,https://clerk.com/blog/atom.xml,Company,30,1,enrichment
-Cloudscaling,https://cloudscaling.com/blog/,https://cloudscaling.com/feed,Company,30,1,sumodirjo/engineering-blogs
-CNCF Blog,https://www.cncf.io/blog/,https://www.cncf.io/blog/feed,Company,30,1,enrichment
-Codeminer42,https://blog.codeminer42.com/,https://blog.codeminer42.com/feed/,Company,30,1,sumodirjo/engineering-blogs
-Contentful,https://www.contentful.com/blog/,https://www.contentful.com/blog/feed.xml,Company,30,1,sumodirjo/engineering-blogs
-Convex Blog,https://blog.convex.dev/,https://news.convex.dev/rss/,Company,30,1,enrichment
-CrunchyData Blog,https://www.crunchydata.com/blog,https://www.crunchydata.com/blog/rss.xml,Company,30,1,enrichment
-Dagster Blog,https://dagster.io/blog,https://dagster.io/blog/rss.xml,Company,30,1,enrichment
-Datafloq,https://datafloq.com/read/,https://datafloq.com/feed/,Company,30,1,sumodirjo/engineering-blogs
-dbt Blog,https://www.getdbt.com/blog,https://www.getdbt.com/blog/feed,Company,30,1,enrichment
-DigitalOcean Blog,https://www.digitalocean.com/blog/,https://www.digitalocean.com/rss/blog.atom,Company,30,1,enrichment
-Drivy,https://drivy.engineering/,https://getaround.tech/feed.xml,Company,30,1,kilimchoi/engineering-blogs
-DuckDB Blog,https://duckdb.org/news/,https://duckdb.org/feed.xml,Company,30,1,enrichment
-EdgeDB Blog,https://www.edgedb.com/blog,https://www.geldata.com/rss.xml,Company,30,1,enrichment
-Envoy Proxy Blog,https://blog.envoyproxy.io/,https://blog.envoyproxy.io/feed,Company,30,1,enrichment
-Flip.id,https://tech.flip.id/,https://tech.flip.id/rss/,Company,30,1,sumodirjo/engineering-blogs
-Freeletics,https://freeletics.engineering/,https://freeletics.engineering/feed.xml,Company,30,1,kilimchoi/engineering-blogs
-GoCardless,https://gocardless.com/blog/tagged/engineering/,https://gocardless.com/content-platform/rss/resources.xml,Company,30,1,kilimchoi/engineering-blogs
-Grafbase Blog,https://grafbase.com/blog,https://grafbase.com/blog/feed,Company,30,1,enrichment
-Guidelines and expectations for working remotely,https://tech.scribd.com/blog/,https://tech.scribd.com/feed.xml,Company,30,1,upgundecha/awesome-engineering
-Haptik,https://haptik.ai/tech/,https://haptik.ai/tech/rss.xml,Company,30,1,kilimchoi/engineering-blogs
-Harness.io,https://engineering.harness.io/,https://engineering.harness.io/feed,Company,30,1,sumodirjo/engineering-blogs
-Hostinger,https://www.hostinger.com/blog/engineering/,https://www.hostinger.com/blog/engineering/feed,Company,30,1,kilimchoi/engineering-blogs
-Informed K12,https://tostring.informedk12.com/,https://tostring.informedk12.com/feed,Company,30,1,sumodirjo/engineering-blogs
-Istio Blog,https://istio.io/latest/blog/,https://istio.io/latest/blog/feed.xml,Company,30,1,enrichment
-iyzico,https://iyzico.engineering/,https://iyzico.engineering/feed,Company,30,1,sumodirjo/engineering-blogs
-JFrog Blog,https://jfrog.com/blog/,https://jfrog.com/blog/feed,Company,30,1,enrichment
-Kakao Tech,https://tech.kakao.com/blog/,https://tech.kakao.com/blog/feed,Company,30,1,enrichment
-Kinvolk,https://kinvolk.io/blog/,https://kinvolk.io/blog/rss.xml,Company,30,1,kilimchoi/engineering-blogs
-LoginRadius,https://www.loginradius.com/engineering/,https://www.loginradius.com/blog/rss.xml,Company,30,1,sumodirjo/engineering-blogs
-Magazine: Increment,http://increment.com/,http://increment.com/feed.xml,Company,30,1,upgundecha/awesome-engineering
-Materialize Blog,https://materialize.com/blog/,https://materialize.com/rss.xml,Company,30,1,enrichment
-Mattermost Blog,https://mattermost.com/blog/,https://mattermost.com/blog/feed,Company,30,1,upgundecha/awesome-engineering
-Mesosphere,https://mesosphere.com/blog/,https://d2iq.com/feed,Company,30,1,kilimchoi/engineering-blogs
-MojoAuth,https://mojoauth.com/blog/,https://mojoauth.com/blog/feed,Company,30,1,sumodirjo/engineering-blogs
-Moove-it,https://blog.moove-it.com/,https://qubika.com/feed/,Company,30,1,kilimchoi/engineering-blogs
-Nx Blog,https://nx.dev/blog,https://nx.dev/blog/rss.xml,Company,30,1,enrichment
-OCTO Technology,https://blog.octo.com/en/,https://blog.octo.com/feed,Company,30,1,kilimchoi/engineering-blogs
-OkCupid Tech Blog,https://tech.okcupid.com/,https://tech.okcupid.com/feed,Company,30,1,enrichment
-Pagico,https://www.pagico.com/blog/,https://www.pagico.com/blog/feed,Company,30,1,sumodirjo/engineering-blogs
-PaskSoftware,https://pasksoftware.com/,https://pasksoftware.com/feed,Company,30,1,crispgm/awesome-engineering-blogs
-Pragprog,https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/,https://pragprog.com/feed,Company,30,1,upgundecha/awesome-engineering
-QuestDB Blog,https://questdb.io/blog/,https://questdb.io/rss.xml,Company,30,1,enrichment
-Raintank,https://blog.raintank.io/,https://blog.raintank.io/index.xml,Company,30,1,sumodirjo/engineering-blogs
-Redpanda Blog,https://redpanda.com/blog,https://redpanda.com/blog/rss.xml,Company,30,1,enrichment
-Remix Blog,https://remix.run/blog,https://remix.run/blog/rss.xml,Company,30,1,enrichment
-RoseHosting,https://www.rosehosting.com/blog/,https://www.rosehosting.com/blog/feed,Company,30,1,kilimchoi/engineering-blogs
-Sanity.io Blog,https://www.sanity.io/blog,https://www.sanity.io/feed/rss,Company,30,1,enrichment
-Schibsted Tech Polska,http://www.schibsted.pl/blog/,https://schibsted-vend.pl/feed/?post_type=brand_post,Company,30,1,kilimchoi/engineering-blogs
-Serverless,https://serverless.com/blog/,https://serverless.com/blog/rss.xml,Company,30,1,kilimchoi/engineering-blogs
-Sharethis,https://www.sharethis.com/category/engineering/,https://sharethis.com/feed/,Company,30,1,kilimchoi/engineering-blogs
-SingleStore Blog,https://www.singlestore.com/blog/,https://www.singlestore.com/blog/feed,Company,30,1,enrichment
-Soshace,https://blog.soshace.com/en/,https://blog.soshace.com/feed/,Company,30,1,kilimchoi/engineering-blogs
-Spacelift,https://spacelift.io/blog,https://spacelift.io/rss,Company,30,1,sumodirjo/engineering-blogs
-Squadcast,https://www.squadcast.com/blog,https://www.squadcast.com/blog/rss.xml,Company,30,1,sumodirjo/engineering-blogs
-StarRocks Blog,https://www.starrocks.io/blog,https://www.starrocks.io/blog/rss.xml,Company,30,1,enrichment
-TiDB Blog,https://www.pingcap.com/blog/,https://www.pingcap.com/feed/,Company,30,1,enrichment
-Travis-Ci Blog,https://blog.travis-ci.com/,https://blog.travis-ci.com/feed,Company,30,1,upgundecha/awesome-engineering
-Turbopack Blog,https://turbo.build/blog,https://turborepo.dev/feed.xml,Company,30,1,enrichment
-Udacity,https://blog.udacity.com/,https://www.udacity.com/blog/feed,Company,30,1,sumodirjo/engineering-blogs
-Vite,https://vitejs.dev/,https://vitejs.dev/blog.rss,Company,30,1,MartinsOnuoha/company-engineering-blogs
-WarpStream Blog,https://www.warpstream.com/blog,https://www.warpstream.com/blog/rss.xml,Company,30,1,enrichment
-Weights & Biases Blog,https://wandb.ai/fully-connected,https://wandb.ai/fully-connected/rss.xml,Company,30,1,enrichment
-WorkOS Blog,https://workos.com/blog,https://workos.com/blog/rss.xml,Company,30,1,enrichment
-WyeWorks,https://wyeworks.com/blog/,https://wyeworks.com/rss.xml,Company,30,1,kilimchoi/engineering-blogs
-YugabyteDB Blog,https://www.yugabyte.com/blog/,https://www.yugabyte.com/blog/feed,Company,30,1,enrichment
-eBay Tech,https://www.ebayinc.com/stories/blogs/tech/,https://www.ebayinc.com/stories/blogs/tech/rss/,Tier 2 Company,100,8,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-LinkedIn Engineering,https://engineering.linkedin.com/,https://engineering.linkedin.com/blog.rss,Tier 1 Company,115,6,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, primaprashant/ml-engineering-blogs"
-Pinterest Engineering,https://medium.com/pinterest-engineering,https://medium.com/feed/pinterest-engineering,Tier 1 Company,110,6,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, primaprashant/ml-engineering-blogs"
-Atlassian Engineering,https://www.atlassian.com/blog/atlassian-engineering,https://developer.atlassian.com/blog/feed.xml,Tier 1 Company,105,5,"engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, draft.dev"
-OpenAI Blog,https://openai.com/news/,https://openai.com/blog/rss.xml,Tier 1 Company,140,10,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, primaprashant/ml-engineering-blogs, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering, enrichment"
-Discord Engineering,https://discord.com/blog,https://discord.com/blog/rss.xml,Tier 2 Company,95,5,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, draft.dev"
-PayPal Engineering,https://developer.paypal.com/community/blog/,https://medium.com/feed/paypal-tech,Tier 2 Company,80,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Reddit Engineering,https://redditinc.com/news,https://www.reddit.com/r/engineering/.rss,Tier 2 Company,75,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Adobe Tech Blog,https://medium.com/adobetech,https://medium.com/feed/adobetech,Tier 2 Company,75,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Intuit Engineering,https://medium.com/intuit-engineering,https://medium.com/feed/intuit-engineering,Tier 2 Company,70,3,"engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Capital One Tech,https://medium.com/capital-one-tech,https://medium.com/feed/capital-one-tech,Tier 2 Company,70,3,"engineeringblogs.xyz, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Vespa Blog (Yahoo),https://blog.vespa.ai/,https://blog.vespa.ai/feed.xml,Tier 2 Company,85,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Cohere Blog,https://cohere.com/blog,https://cohere.com/blog/rss.xml,Tier 1 Company,110,6,"engineeringblogs.xyz, blog.bytebytego.com, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Scale AI Blog,https://scale.com/blog,https://scale.com/blog/rss.xml,Tier 2 Company,95,5,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-CoreWeave Blog,https://www.coreweave.com/blog/,https://www.coreweave.com/blog/rss.xml,Tier 2 Company,90,5,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Lambda Labs Blog,https://lambda.ai/blog,https://lambda.ai/blog/rss.xml,Tier 2 Company,85,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-RunPod Blog,https://www.runpod.io/blog,https://www.runpod.io/blog/rss.xml,Tier 2 Company,80,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Modal Blog,https://modal.com/blog,https://modal.com/blog/atom.xml,Tier 2 Company,85,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-Anyscale Blog (Ray),https://www.anyscale.com/blog,https://www.anyscale.com/rss.xml,Tier 2 Company,90,5,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Hugging Face Blog,https://huggingface.co/blog,https://huggingface.co/blog/feed.xml,Tier 2 Company,125,8,"crispgm/awesome-engineering-blogs, engineeringblogs.xyz, blog.bytebytego.com, draft.dev, primaprashant/ml-engineering-blogs, MartinsOnuoha/company-engineering-blogs, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs"
-BBC Design and Engineering,https://medium.com/bbc-design-engineering/,https://medium.com/feed/bbc-design-engineering,Tier 2 Company,90,6,"primaprashant/ml-engineering-blogs, engineeringblogs.xyz, draft.dev, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Squarespace Engineering,https://engineering.squarespace.com/,https://engineering.squarespace.com/blog?format=RSS,Tier 2 Company,70,4,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs, sumodirjo/engineering-blogs, upgundecha/awesome-engineering"
-Stitch Fix Technology,http://multithreaded.stitchfix.com/blog/,https://multithreaded.stitchfix.com/feed.xml,Tier 2 Company,70,3,"engineeringblogs.xyz, blog.bytebytego.com, kilimchoi/engineering-blogs"
-Mozilla Hacks,https://hacks.mozilla.org/,https://hacks.mozilla.org/feed/,Tier 2 Company,60,2,"engineeringblogs.xyz, kilimchoi/engineering-blogs"
+PlanetScale Blog,https://planetscale.com/blog,https://planetscale.com/blog/rss.xml,Company,70,1,manual-curation
+Crunchy Data Blog,https://www.crunchydata.com/blog,https://www.crunchydata.com/blog/rss.xml,Company,65,1,manual-curation
+Marc Brooker,https://brooker.co.za/blog/,https://brooker.co.za/blog/rss.xml,Individual,85,1,manual-curation
+Scattered Thoughts,https://www.scattered-thoughts.net/,https://www.scattered-thoughts.net/atom.xml,Individual,80,1,manual-curation
+Too Much Data Blog,https://www.tumuchdata.club/for_students/blog/,https://www.tumuchdata.club/index.xml,Individual,50,1,manual-curation
+Justin Jaffray (Buttondown),https://buttondown.com/jaffray/archive,https://buttondown.com/jaffray/rss,Individual,65,1,manual-curation
+Justin Jaffray,https://justinjaffray.com/posts/,https://justinjaffray.com/blog/index.xml,Individual,65,1,manual-curation
+Jan Nidzwetzki,https://jnidzwetzki.github.io/,https://jnidzwetzki.github.io/feed.xml,Individual,60,1,manual-curation
+Simon Eskildsen,https://sirupsen.com/,https://sirupsen.com/atom.xml,Individual,75,1,manual-curation
+Tudor Stanescu,https://tudor96stani.com/blog/,https://tudor96stani.com/atom.xml,Individual,50,1,manual-curation
+BitsxPages,https://www.bitsxpages.com/,https://www.bitsxpages.com/feed,Individual,50,1,manual-curation
+Baotiao,https://baotiao.github.io/,https://baotiao.github.io/feed.xml,Individual,55,1,manual-curation
+A. Jesse Jiryu Davis,https://emptysqua.re/blog/all-posts/,https://emptysqua.re/blog/index.xml,Individual,65,1,manual-curation
+Binary Igor,https://binaryigor.com/,https://binaryigor.com/feed.xml,Individual,55,1,manual-curation
+Murat Demirbas,https://muratbuffalo.blogspot.com/,https://muratbuffalo.blogspot.com/feeds/posts/default,Individual,80,1,manual-curation
+Materialized View,https://materializedview.io/,https://materializedview.io/feed,Company,65,1,manual-curation
+HammerDB Blog,https://www.hammerdb.com/casestudies.html,https://www.hammerdb.com/blog/feed,Company,55,1,manual-curation
+Database Architects,https://databasearchitects.blogspot.com/,https://databasearchitects.blogspot.com/feeds/posts/default,Individual,70,1,manual-curation
+Mark Callaghan (Small Datum),https://smalldatum.blogspot.com/,https://smalldatum.blogspot.com/feeds/posts/default,Individual,75,1,manual-curation
+Joe Hellerstein,https://jhellerstein.github.io/blog/,https://jhellerstein.github.io/blog/rss.xml,Individual,80,1,manual-curation
+Ivan Prisyazhnyy,https://sitano.github.io/,https://sitano.github.io/feed.xml,Individual,55,1,manual-curation
+Jeremy Cole,https://blog.jcole.us/category/mysql/,https://blog.jcole.us/feed/,Individual,70,1,manual-curation
+Pierre Zemb,https://pierrezemb.fr/posts/,https://pierrezemb.fr/rss.xml,Individual,65,1,manual-curation
+Dangling Pointers,https://danglingpointers.substack.com/archive,https://danglingpointers.substack.com/feed,Individual,60,1,manual-curation
+Laplab,https://laplab.me/posts/,https://laplab.me/posts/index.xml,Individual,55,1,manual-curation
+TigerBeetle Blog,https://tigerbeetle.com/blog/,https://tigerbeetle.com/blog/atom.xml,Company,80,1,manual-curation
+Transactional Blog,https://transactional.blog/,https://transactional.blog/feed.xml,Individual,75,1,manual-curation
+Oren Eini (Ayende),https://ayende.com/blog/tags/databases,https://ayende.com/blog/rss,Individual,65,1,manual-curation
+The Morning Paper,https://blog.acolyer.org/tag/datastores/,https://blog.acolyer.org/feed/,Individual,80,1,manual-curation
+Shubham Razdan,https://shbhmrzd.github.io/,https://shbhmrzd.github.io/feed.xml,Individual,50,1,manual-curation
+All Things Distributed,https://www.allthingsdistributed.com/,https://www.allthingsdistributed.com/atom.xml,Individual,75,1,manual-curation
+Distributed Computing Musings,https://distributed-computing-musings.com/,https://distributed-computing-musings.com/feed/,Individual,65,1,manual-curation
+Distributed Data Store Blog,https://distributeddatastore.blogspot.com/,https://distributeddatastore.blogspot.com/feeds/posts/default,Individual,55,1,manual-curation
+Siddharth Jain,https://www.siddharthjain.dev/tags/storage-systems/,https://www.siddharthjain.dev/index.xml,Individual,55,1,manual-curation
+Dan Olivo,https://danolivo.substack.com/archive,https://danolivo.substack.com/feed,Individual,60,1,manual-curation
+PostgreSQL Verite,https://postgresql.verite.pro/blog/,https://postgresql.verite.pro/blog/feed.xml,Individual,65,1,manual-curation
+Phil Eaton,https://notes.eatonphil.com/,https://notes.eatonphil.com/rss.xml,Individual,85,1,manual-curation
+Brandur,https://brandur.org/articles,https://brandur.org/articles.atom,Individual,75,1,manual-curation
+Jack Vanlightly,https://jack-vanlightly.com/,https://jack-vanlightly.com/blog/rss.xml,Individual,80,1,manual-curation
+Shayon Mukherjee,https://www.shayon.dev/post/,https://www.shayon.dev/index.xml,Individual,55,1,manual-curation
+Jacob Sherin,https://jacobsherin.com/,https://jacobsherin.com/feed/feed.xml,Individual,50,1,manual-curation
+Robert Haas,https://rhaas.blogspot.com/,https://rhaas.blogspot.com/feeds/posts/default,Individual,75,1,manual-curation
+Gunnar Morling,https://www.morling.dev/blog/,https://www.morling.dev/blog/index.xml,Individual,75,1,manual-curation
+Pierre Pinaraf,https://www.pinaraf.info/,https://www.pinaraf.info/feed/,Individual,55,1,manual-curation
+Databases Systems Blog,https://databases.systems/posts,https://databases.systems/posts/feed.xml,Individual,60,1,manual-curation
+Humayun (redixhumayun),https://redixhumayun.github.io/,https://redixhumayun.github.io/feed.xml,Individual,60,1,manual-curation
+Anantha Kumaran,https://ananthakumaran.in/,https://ananthakumaran.in/atom.xml,Individual,60,1,manual-curation
+Peter Eisentraut,https://peter.eisentraut.org/,http://peter.eisentraut.org/feed.xml,Individual,75,1,manual-curation
+Canoozie Blog,https://blog.canoozie.net/,https://blog.canoozie.net/rss/,Individual,55,1,manual-curation
+My DBA Notebook,https://mydbanotebook.org/posts/,https://mydbanotebook.org/posts/index.xml,Individual,55,1,manual-curation
+Kevin Sookocheff,https://sookocheff.com/tags/databases/,https://sookocheff.com/index.xml,Individual,60,1,manual-curation
+David Gomes,https://davidgomes.com/,https://davidgomes.com/rss/,Individual,60,1,manual-curation
+OrioleDB Blog,https://www.orioledb.com/blog,https://www.orioledb.com/blog/rss.xml,Company,70,1,manual-curation
+Miguel Perez,https://migue.github.io/posts/,https://migue.github.io/index.xml,Individual,50,1,manual-curation
+FSGeek,https://fsgeek.ca/,https://fsgeek.ca/feed/,Individual,60,1,manual-curation
+Stephen Holiday,https://stephenholiday.com/notes/,https://feeds.feedburner.com/StephenHoliday,Individual,55,1,manual-curation
+Haider Zaidi (DBA),https://haiderzdbre.substack.com,https://haiderzdbre.substack.com/feed,Individual,55,1,manual-curation
+StarRocks Blog,https://www.starrocks.io/blog/,https://www.starrocks.io/blog/rss.xml,Company,65,1,manual-curation
+Tomas Vondra,https://vondra.me/,https://vondra.me/index.xml,Individual,70,1,manual-curation
