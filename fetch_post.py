@@ -6,17 +6,21 @@ and generates index.html for GitHub Pages.
 """
 
 import csv
+import json
+import os
 import random
 import re
 import html as html_module
 import socket
 from datetime import datetime, timezone
 
+import google.generativeai as genai
 import feedparser
 
 FEED_TIMEOUT = 10
 MAX_RECENT_POSTS = 15
 MAX_RETRIES = 30
+NUM_CANDIDATE_BLOGS = 5
 
 
 def load_blogs(csv_path="merged_feeds.csv"):
@@ -31,11 +35,16 @@ def load_blogs(csv_path="merged_feeds.csv"):
     return blogs
 
 
-def fetch_random_post(blogs):
+def fetch_best_post(blogs):
+    """Sample NUM_CANDIDATE_BLOGS blogs, collect their posts, let Gemini pick the best."""
     weights = [max(1, int(row["score"])) for row in blogs]
     tried = set()
+    candidates = []  # list of (blog, post)
 
     for _ in range(MAX_RETRIES):
+        if len(tried) >= NUM_CANDIDATE_BLOGS:
+            break
+
         (blog,) = random.choices(blogs, weights=weights, k=1)
         rss_url = blog["rss_url"].strip()
         if rss_url in tried:
@@ -50,12 +59,58 @@ def fetch_random_post(blogs):
                 request_headers={"User-Agent": "Mozilla/5.0"},
             )
             entries = [e for e in feed.entries[:MAX_RECENT_POSTS] if e.get("link")]
-            if entries:
-                return blog, random.choice(entries)
+            for post in entries:
+                candidates.append((blog, post))
+                print(f"    {post.get('title', '')[:70]}")
         except Exception as e:
             print(f"    Error: {e}")
 
-    return None, None
+    if not candidates:
+        return None, None
+
+    print(f"\nRanking {len(candidates)} posts with Gemini...")
+    best_index = rank_candidates(candidates)
+    return candidates[best_index]
+
+
+def rank_candidates(candidates):
+    """
+    Use Gemini to pick the most technically valuable post from the candidates.
+    candidates: list of (blog_row, post) tuples.
+    Returns the index of the best candidate, or falls back to longest summary.
+    """
+    numbered = []
+    for i, (blog, post) in enumerate(candidates):
+        title = (post.get("title") or "Untitled").strip()
+        summary = get_summary(post, max_chars=200)
+        numbered.append(f"{i}. [{blog['name']}] {title}\n   {summary}")
+
+    prompt = (
+        "You are helping engineers discover high-quality technical blog posts.\n\n"
+        "From the list below, pick the ONE post most likely to contain deep technical "
+        "learnings — e.g. architecture decisions, system design, debugging stories, "
+        "performance investigations, or engineering trade-offs. Avoid announcements, "
+        "product launches, hiring posts, roundups, and generic tutorials.\n\n"
+        "Posts:\n"
+        + "\n\n".join(numbered)
+        + "\n\nReply with a JSON object containing a single key \"index\" "
+        "(0-based integer). Example: {\"index\": 3}"
+    )
+
+    try:
+        genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+        model = genai.GenerativeModel("gemini-2.0-flash")
+        response = model.generate_content(prompt)
+        raw = response.text.strip()
+        index = json.loads(raw)["index"]
+        if 0 <= index < len(candidates):
+            print(f"  Gemini picked index {index}: {candidates[index][1].get('title', '')}")
+            return index
+    except Exception as e:
+        print(f"  Gemini ranking failed ({e}), falling back to longest summary")
+
+    # Fallback: pick the post with the longest summary (most content)
+    return max(range(len(candidates)), key=lambda i: len(get_summary(candidates[i][1])))
 
 
 def strip_html(text):
@@ -287,8 +342,8 @@ def main():
     blogs = load_blogs()
     print(f"  {len(blogs)} unique feeds loaded")
 
-    print("Fetching a random post...")
-    blog, post = fetch_random_post(blogs)
+    print("Fetching best post across candidate blogs...")
+    blog, post = fetch_best_post(blogs)
 
     if not blog or not post:
         print("ERROR: Could not fetch any post after retries.")

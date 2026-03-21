@@ -26,6 +26,8 @@ jobs:
 
       - name: Generate today's post
         run: python fetch_post.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commit and push index.html
         run: |
