@@ -24,16 +24,24 @@ NUM_CANDIDATE_BLOGS = 5
 SERVED_URLS_PATH = "served_urls.txt"
 
 
+def normalize_url(url):
+    """Normalize a URL so http/https and trailing-slash variants match."""
+    url = url.strip()
+    url = re.sub(r"^https?://", "https://", url)
+    url = url.rstrip("/")
+    return url
+
+
 def load_served_urls():
     if not os.path.exists(SERVED_URLS_PATH):
         return set()
     with open(SERVED_URLS_PATH, encoding="utf-8") as f:
-        return {line.strip() for line in f if line.strip()}
+        return {normalize_url(line) for line in f if line.strip()}
 
 
 def save_served_url(url):
     with open(SERVED_URLS_PATH, "a", encoding="utf-8") as f:
-        f.write(url + "\n")
+        f.write(normalize_url(url) + "\n")
 
 
 def load_blogs(csv_path="merged_feeds.csv"):
@@ -73,7 +81,7 @@ def fetch_best_post(blogs, served_urls):
             )
             entries = [e for e in feed.entries[:MAX_RECENT_POSTS] if e.get("link")]
             for post in entries:
-                if post["link"].strip() not in served_urls:
+                if normalize_url(post["link"]) not in served_urls:
                     candidates.append((blog, post))
                     print(f"    {post.get('title', '')[:70]}")
                 else:
