@@ -10,3 +10,4 @@ https://materializedview.io/p/dataframes-multi-engine-queries-and
 https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful
 https://jhellerstein.github.io/blog/crdt-dont-read
 https://brandur.org/disallow-unknown-fields
+https://stephenholiday.com/articles/2014/that-first-co-op-job/index.html
