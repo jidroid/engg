@@ -12,3 +12,4 @@ https://jhellerstein.github.io/blog/crdt-dont-read
 https://brandur.org/disallow-unknown-fields
 https://stephenholiday.com/articles/2014/that-first-co-op-job/index.html
 https://migue.github.io/posts/formal-methods-introduction
+https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones
