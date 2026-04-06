@@ -14,3 +14,4 @@ https://stephenholiday.com/articles/2014/that-first-co-op-job/index.html
 https://migue.github.io/posts/formal-methods-introduction
 https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones
 https://distributeddatastore.blogspot.com/2026/02/how-kv-cache-is-revolutionizing-ai.html
+https://materializedview.io/p/duckdb-is-not-a-data-warehouse
