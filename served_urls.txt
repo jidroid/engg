@@ -15,3 +15,4 @@ https://migue.github.io/posts/formal-methods-introduction
 https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones
 https://distributeddatastore.blogspot.com/2026/02/how-kv-cache-is-revolutionizing-ai.html
 https://materializedview.io/p/duckdb-is-not-a-data-warehouse
+https://brooker.co.za/blog/2025/12/16/natural-language.html
