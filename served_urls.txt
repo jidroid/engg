@@ -5,3 +5,4 @@ https://ayende.com/blog/203621-B/propertyspheres-intelligent-telegram-bot?Key=18
 https://emptysqua.re/blog/review-rethink-linearizability-constraints-raft
 https://www.openmymind.net/Peeking-Behind-Interfaces-by-Creating-a-Dummy-std-Random
 https://orioledb.com/blog/orioledb-neon-differences
+https://databases.systems/posts/collaborative-editor
