@@ -7,3 +7,4 @@ https://www.openmymind.net/Peeking-Behind-Interfaces-by-Creating-a-Dummy-std-Ran
 https://orioledb.com/blog/orioledb-neon-differences
 https://databases.systems/posts/collaborative-editor
 https://distributeddatastore.blogspot.com/2026/02/how-kv-cache-is-revolutionizing-ai.html
+https://strongly-typed-thoughts.net/blog/luminance_32bit
